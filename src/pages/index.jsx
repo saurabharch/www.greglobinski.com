@@ -21,7 +21,7 @@ const Index = props => {
           c-content-box__subheadline--with-button
         `}
       >
-        I'm freelance full-stack developer and solution architecture consultant for scaled dynamic growing SaaS, PaaS, IaaS application as well as open source contributor (OSS).
+        I'm freelance full-stack developer and solution architecture consultant for scaled dynamic growing SaaS, PaaS, IaaS application as well as open source software contributor (OSS).
       </h2>
     </div>
   );
