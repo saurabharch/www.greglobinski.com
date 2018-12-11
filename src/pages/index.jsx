@@ -21,7 +21,7 @@ const Index = props => {
           c-content-box__subheadline--with-button
         `}
       >
-        I build SaaS, PaaS, IaaS and cloud application infrastructure/architecture consultant
+        I deal in SaaS, PaaS, IaaS . scaled application infrastructure/architecture solution as consultant and full-stack freelance developer
       </h2>
     </div>
   );
