@@ -5,6 +5,8 @@ $dark-red-color: #d00;
 $white-color: #fff;
 $lila-color: rgb(166, 97, 194); // #744C9E;
 $orange-color: #5997cc;
+$purple:#a661c2;
+$steelbird:4682b4;
 
 $first-color: $lila-color;
 $second-color: $orange-color;
@@ -12,7 +14,7 @@ $second-color: $orange-color;
 $body-text-color: $dark-gray-color;
 $body-bg-color: $white-color;
 $head-text-color: $mid-gray-color;
-
+$ popup-bg-color:linear-gradient(-90deg, $purple, $steelbird)
 $text-link-color: $dark-red-color;
 $text-link-hover-color: lighten($dark-red-color, 10%);
 
