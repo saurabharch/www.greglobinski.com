@@ -41,7 +41,7 @@ const ForContactPageContent = (
     </p>
     <p>
       Thank you<br />
-      <b>Saurabh</b>
+      <b>Saurabh Kashyap</b>
     </p>
   </div>
 );
