@@ -10,7 +10,7 @@ const MainFooter = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Gatsby
+        :heart:
       </a>{" "}
       and{" "}
       <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
