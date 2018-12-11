@@ -21,7 +21,7 @@ const Index = props => {
           c-content-box__subheadline--with-button
         `}
       >
-        I deal in SaaS, PaaS, IaaS . scaled application infrastructure/architecture solution as consultant and full-stack freelance developer
+        I deal in SaaS, PaaS, IaaS . Dynamic scaled application architecture solution as consultant and freelance full-stack developer
       </h2>
     </div>
   );
