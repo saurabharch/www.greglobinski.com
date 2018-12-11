@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "gatsby-simple-world",
+  "description": "Saurabh Kashyap Profile",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
