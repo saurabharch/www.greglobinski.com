@@ -21,7 +21,7 @@ const Index = props => {
           c-content-box__subheadline--with-button
         `}
       >
-        I build SaaS, PaaS, IaaS
+        I build SaaS, PaaS, IaaS and cloud application infrastructure/architecture consultant
       </h2>
     </div>
   );
