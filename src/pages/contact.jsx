@@ -24,7 +24,7 @@ export default props => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            @@saurabh19867276
+            @saurabh19867276
           </a>
         </li>
         <li className="c-contact-list__item">
