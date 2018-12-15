@@ -2,17 +2,18 @@ $dark-gray-color: #333;
 $mid-gray-color: #666;
 $light-gray-color: #999;
 $dark-red-color: #d00;
-$white-color: #8787;
+$white-color: #fff;
 $lila-color: rgb(166, 97, 194); // #744C9E;
 $orange-color: #5997cc;
 $purple-color:#a661c2;
 $steelbird-color:#4682b4;
+$dark-color:#87878;
 
 $first-color: $lila-color;
 $second-color: $orange-color;
 
 $body-text-color: $dark-gray-color;
-$body-bg-color: #fff;
+$body-bg-color: $dark-color;
 $head-text-color: $mid-gray-color;
 $text-link-color: $dark-red-color;
 $text-link-hover-color: lighten($dark-red-color, 10%);
