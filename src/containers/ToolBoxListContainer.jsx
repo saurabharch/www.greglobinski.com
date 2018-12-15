@@ -261,7 +261,7 @@ class ToolBoxListContainer extends React.Component {
           id: 37,
           label: "Haraka",
           description: `Haraka is an open source SMTP server. Its architecture is plugin-oriented and event-driven. The server and its plugins are written in Javascript using the Node.js framework. Haraka follows a plugin model, implementing a very lightweight SMTP core and providing developers hooks into the mail flow.`,
-          comment: `<a href="https://haraka.github.io/" target="_blank">Haraka</a> is high performance coupled with a flexible plugin system allowing Javascript programmers full access to change the behaviour of the server. It is used heavily in some high traffic sites.`
+          comment: `<a href="https://haraka.github.io/" target="_blank">Haraka</a> provides extremely high performance coupled with a flexible plugin system allowing Javascript programmers full access to change the behaviour of the server. It is used heavily in some high traffic sites`
         }
       ],
       activatedItem: null,
