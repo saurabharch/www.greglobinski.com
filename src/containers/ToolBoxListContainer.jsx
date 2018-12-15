@@ -26,6 +26,14 @@ class ToolBoxListContainer extends React.Component {
             <b>And I love it!</b>`
         },
         {
+          id: 38,
+          label: "TypeScript",
+          description: `<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> is an open-source programming language developed and maintained by Microsoft. 
+            It is a strict syntactical superset of JavaScript, and adds optional static typing to the language.`,
+          comment: `That's the only programing language I also use on a daily basis. 
+            <b>And I love it!</b>`
+        },
+        {
           id: 2,
           label: "ES2015",
           description: `It's a pseudonym for the latest version of the 
