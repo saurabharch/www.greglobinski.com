@@ -221,7 +221,7 @@ class ToolBoxListContainer extends React.Component {
           id: 29,
           label: "MQTT",
           description: `MQTT is an ISO standard publish-subscribe-based messaging protocol. It works on top of the TCP/IP protocol. It is designed for connections with remote locations where a "small code footprint" is required or the network bandwidth is limited. The publish-subscribe messaging pattern requires a message broker`,
-          comment: ` <a href="http://mqtt.org/" target="_blank">MQTT</a> is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium. For example, it has been used in sensors communicating to a broker via satellite link, over occasional dial-up connections with healthcare providers, and in a range of home automation and small device scenarios.`
+          comment: ` <a href="http://mqtt.org/" target="_blank">MQTT</a> is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport.`
         },
         {
           id: 30,
