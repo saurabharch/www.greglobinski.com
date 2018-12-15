@@ -230,38 +230,38 @@ class ToolBoxListContainer extends React.Component {
         {
           id: 32,
           label: "Azure",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through a global network of Microsoft-managed data centers.`,
+          comment: ` <a href="https://azure.microsoft.com" target="_blank">Microsoft Azure</a> is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more and save money with IaaS + PaaS.`
         },
         {
           id: 33,
           label: "Docker",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Docker is a computer program that performs operating-system-level virtualization, also known as 'containerization', which is written in Go programming language`,
+          comment: `Learn more about the only enterprise-ready container platform that enables IT leaders to cost-effectively build and manage their application at <a href="https://www.docker.com/" target="_blank">Docker</a> website.`
         },
         {
           id: 34,
           label: "joyent",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Open source and Hybrid Cloud Infrastructure as a Service specialized in running Containers, Serverless Docker and VMs securely at scale.`,
+          comment: `Official website and Documentation you can find here on <a href="https://www.joyent.com/" target="_blank">Joyent</a> website.`
         },
         {
           id: 35,
           label: "nginx",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Nginx is a web server which can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.`,
+          comment: `NGINX accelerates content and application delivery, improves security, facilitates availability and scalability for the busiest web sites on the Internet. for more about <a href="https://www.nginx.com/" target="_blank">nginx</a> here.`
         },
         {
           id: 36,
           label: "Apache Spark",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Apache Spark is an open-source distributed general-purpose cluster-computing framework`,
+          comment: `<a href="https://spark.apache.org/" target="_blank">Apache Spark</a> is a unified analytics engine for big data processing, with built-in modules for streaming, SQL, machine learning and graph processing.`
         },
         {
           id: 37,
           label: "Haraka",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Haraka is an open source SMTP server. Its architecture is plugin-oriented and event-driven. The server and its plugins are written in Javascript using the Node.js framework. Haraka follows a plugin model, implementing a very lightweight SMTP core and providing developers hooks into the mail flow.`,
+          comment: `<a href="https://haraka.github.io/" target="_blank">Haraka</a> is an open source SMTP server written in Node.js which provides extremely high performance coupled with a flexible plugin system allowing Javascript programmers full access to change the behaviour of the server. It is used heavily in some high traffic sites.`
         }
       ],
       activatedItem: null,
