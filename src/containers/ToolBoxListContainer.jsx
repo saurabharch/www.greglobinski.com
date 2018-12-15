@@ -176,56 +176,56 @@ class ToolBoxListContainer extends React.Component {
         {
           id: 23,
           label: "Redis",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker`,
+          comment: `Official website and Documentation you can find here on <a href="https://redis.io/" target="_blank">Redis</a> website.`
         },
         {
           id: 24,
           label: "Cassandra",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Apache Cassandra is a free and open-source, distributed, wide column store, NoSQL database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure.`,
+          comment: `Official website and Documentation you can find here on <a href="cassandra.apache.org/" target="_blank">Cassandra</a> website.`
         },
         {
           id: 25,
           label: "MSSQL",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server, it is a software product with the primary function of storing and retrieving data as requested by other software applications—which may run either on the same computer or on another computer across a network`,
+          comment: `Official website and Documentation you can find here on <a href="https://www.microsoft.com/en-gb/sql-server/" target="_blank">MSSQL</a> website.`
         },
         {
           id: 26,
           label: "Kafka",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.`,
+          comment: `<a href="https://kafka.apache.org/" target="_blank">Kafka®</a> is used for building real-time data pipelines and streaming apps. It is horizontally scalable, fault-tolerant, wicked fast, and runs in production in thousands of companies.`
         },
         {
           id: 27,
           label: "RabbitMQ",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `RabbitMQ is an open source message broker software that originally implemented the Advanced Message Queuing Protocol and has since been extended with a plug-in architecture to support Streaming Text Oriented Messaging Protocol, Message Queuing Telemetry Transport, and other protocols.`,
+          comment: `With more than 35,000 production deployments of RabbitMQ world-wide at small startups and large enterprises,<a href="https://www.rabbitmq.com/" target="_blank">RabbitMQ</a> is the most popular open source message broker.`
         },
         {
           id: 28,
           label: "HiveMQ",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `HiveMQ is the MQTT based messaging platform for fast, efficient and reliable data movement to and from connected IoT devices and enterprise systems.`,
+          comment: ` <a href="https://www.hivemq.com/" target="_blank">HiveMQ</a> makes it easy to move data to and from connected devices in an efficient, fast and reliable manner. We make it possible to build connected products that enable new digital businesses.`
         },
         {
           id: 29,
           label: "MQTT",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `MQTT is an ISO standard publish-subscribe-based messaging protocol. It works on top of the TCP/IP protocol. It is designed for connections with remote locations where a "small code footprint" is required or the network bandwidth is limited. The publish-subscribe messaging pattern requires a message broker`,
+          comment: ` <a href="http://mqtt.org/" target="_blank">MQTT</a> is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium. For example, it has been used in sensors communicating to a broker via satellite link, over occasional dial-up connections with healthcare providers, and in a range of home automation and small device scenarios. It is also ideal for mobile applications because of its small size, low power usage, minimised data packets, and efficient distribution of information to one or many receivers.`
         },
         {
           id: 30,
           label: "AWS",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.`,
+          comment: `For more explore on <a href="https://aws.amazon.com/" target="_blank">AWS</a> website.`
         },
         {
           id: 31,
           label: "google cloud",
-          description: `PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability. psql is written on top of the C programming language`,
-          comment: `Official website and Documentation you can find here on <a href="https://www.postgresql.org/" target="_blank">PSQL</a> website.`
+          description: `Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products`,
+          comment: `Build, innovate, and scale with Google Cloud Platform. Collaborate and be more productive with G Suite. See what's possible with <a href="https://cloud.google.com/" target="_blank">Google Cloud</a> .`
         },
         {
           id: 32,
