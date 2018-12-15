@@ -7,13 +7,12 @@ $lila-color: rgb(166, 97, 194); // #744C9E;
 $orange-color: #5997cc;
 $purple-color:#a661c2;
 $steelbird-color:#4682b4;
-$dark-color:#87878;
 
 $first-color: $lila-color;
 $second-color: $orange-color;
 
 $body-text-color: $dark-gray-color;
-$body-bg-color: $dark-color;
+$body-bg-color: $white-color;
 $head-text-color: $mid-gray-color;
 $text-link-color: $dark-red-color;
 $text-link-hover-color: lighten($dark-red-color, 10%);
