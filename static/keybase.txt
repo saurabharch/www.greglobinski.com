@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/saurabharch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://saurabh.netlify.com
+  * I am saurabharch (https://keybase.io/saurabharch) on keybase.
+  * I have a public key ASDWo6RQO7fAUq3_fNqy4_Egm8r3BAIBUfVgiI5o1VbTIQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d6a3a4503bb7c052adff7cdab2e3f1209bcaf704020151f560888e68d556d3210a",
+      "host": "keybase.io",
+      "kid": "0120d6a3a4503bb7c052adff7cdab2e3f1209bcaf704020151f560888e68d556d3210a",
+      "uid": "331737df89822ac56d55386ef5c56b19",
+      "username": "saurabharch"
+    },
+    "merkle_root": {
+      "ctime": 1558268773,
+      "hash": "256ef3933feb73612de8be0a3113c30ae8deb7459903c03b9e1ae36f1f74d379b5d2f7f836a525e793747e716b0f5f7bf366e5175ebda1964e88e9f8db01895a",
+      "hash_meta": "1229e724c0caca03dc7d401c6db76fbda5fa558b09a8e5ced9e9d9a3e1ff0179",
+      "seqno": 5403517
+    },
+    "service": {
+      "entropy": "M1NIPFiRfG3oxLSmPufR16Q8",
+      "hostname": "saurabh.netlify.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558268799,
+  "expire_in": 504576000,
+  "prev": "5d882e7ba1d3d8aed37785872c6ee3892112dadeddcf72995faac49dea1e52e0",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1qOkUDu3wFKt/3zasuPxIJvK9wQCAVH1YIiOaNVW0yEKp3BheWxvYWTESpcCGMQgXYgue6HT2K7Td4WHLG7jiSES2t7dz3KZX6rEneoeUuDEIE0Uo8OUfRWNyh6cLECw6qnHVYTkQWiRfCZXbVyUZNIkAgHCo3NpZ8RA1Tv6CJNNiilF4Aanj4a7ickB4MoCdSXlXbKhdo1MiNbzTLuIG9x2HqY/LqagBvQNtOngcnYxLBS+jNLLM+2aAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPNXYqCy7kO1f1xvrFTZaGJC1zfknyiO92DdCAtfJfyto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/saurabharch
+
+==================================================================
